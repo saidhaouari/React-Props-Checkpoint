@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Props-Checkpoint/static/css/main.72a57cb3.chunk.css",
+    "main.js": "/React-Props-Checkpoint/static/js/main.0e22cfbf.chunk.js",
+    "main.js.map": "/React-Props-Checkpoint/static/js/main.0e22cfbf.chunk.js.map",
+    "runtime-main.js": "/React-Props-Checkpoint/static/js/runtime-main.21ba75f3.js",
+    "runtime-main.js.map": "/React-Props-Checkpoint/static/js/runtime-main.21ba75f3.js.map",
+    "static/js/2.58c2b6fc.chunk.js": "/React-Props-Checkpoint/static/js/2.58c2b6fc.chunk.js",
+    "static/js/2.58c2b6fc.chunk.js.map": "/React-Props-Checkpoint/static/js/2.58c2b6fc.chunk.js.map",
+    "static/js/3.a53efded.chunk.js": "/React-Props-Checkpoint/static/js/3.a53efded.chunk.js",
+    "static/js/3.a53efded.chunk.js.map": "/React-Props-Checkpoint/static/js/3.a53efded.chunk.js.map",
+    "index.html": "/React-Props-Checkpoint/index.html",
+    "static/css/main.72a57cb3.chunk.css.map": "/React-Props-Checkpoint/static/css/main.72a57cb3.chunk.css.map",
+    "static/js/2.58c2b6fc.chunk.js.LICENSE.txt": "/React-Props-Checkpoint/static/js/2.58c2b6fc.chunk.js.LICENSE.txt",
+    "static/media/monimage.0df49f2e.jpg": "/React-Props-Checkpoint/static/media/monimage.0df49f2e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21ba75f3.js",
+    "static/js/2.58c2b6fc.chunk.js",
+    "static/css/main.72a57cb3.chunk.css",
+    "static/js/main.0e22cfbf.chunk.js"
+  ]
+}
